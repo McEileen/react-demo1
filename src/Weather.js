@@ -1,5 +1,4 @@
 import React from 'react';
-import SubBucket from './SubBucket';
 
 class Weather extends React.Component{
   constructor(props){
